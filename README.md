@@ -3,6 +3,20 @@
 A professional AI Agent built using Python, Streamlit, and Ollama. This project implements the ReAct (Reason + Act) framework, enabling the agent to not only respond to queries but also take actions using tools to generate accurate, grounded answers.
 
 ---
+## 📷 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10d77d88-b5a7-440a-9172-decf11adc882" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0c74f675-db3c-4223-abae-29f4568fe90f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/78b555a7-f1f7-4a9d-9e70-0d6023ff8206" width="30%" />
+</p>
+
+![Watch Demo](https://github.com/user-attachments/assets/0956fdb9-9784-401d-b520-fdc32221424e)
+
+
+
+
+
 
 ## 🚀 Overview
 
