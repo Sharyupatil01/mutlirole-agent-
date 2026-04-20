@@ -70,12 +70,17 @@ cd mutlirole-agent-
 pip install -r requirements.txt
 ```
 
-### 3. Run Ollama
+### 3. Download llama3 
+```bash
+ollama pull llama3
+```
+
+### 4. Run Ollama
 ```bash
 ollama run llama3
 ```
 
-### 4. Start the App
+### 4. Start the App (Another Terminal)
 ```bash
 streamlit run app.py
 ```
